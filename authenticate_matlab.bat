@@ -1,0 +1,1 @@
+matlab -nodesktop -nosplash -minimize -r "cd C:\Users\Cain\Documents\MATLAB\opiconsole_win_v1.40_20140427\matlab\; run('authenticate_predict');exit;"
