@@ -7,4 +7,4 @@ HeartLock
 - The amplitudes of peaks and troughs, as well as time displacements between them, are extracted as features
 - Collected several hours of data from 3 testers
 - Random Forest model trained on 9 features
-- After unknown user wears wristband for 30 seconds, HeartLock determined identity with 80% accuracy
+- In live tests, HeartLock identified the user with 80% accuracy
